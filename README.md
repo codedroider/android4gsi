@@ -10,3 +10,4 @@ the AI helped with the code.
 before you call me dumb, I'm a teenager, which means I don't understand.
 # this is alpha, it may not work! thanks in advance for the help/testing in the project.
 used halium, via.
+# NOT TESTED NOW.
